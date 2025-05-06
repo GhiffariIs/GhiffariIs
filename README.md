@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 Portofolio Web (Live Preview)
+## 📊 Portofolio Web (Live Preview) (Soon)
 
 <iframe
   src="https://your-custom-api-embed-page.com/github-frame.html"
